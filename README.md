@@ -4,7 +4,7 @@
 
 **Stream:** CSE (AI)
 
-**Enrollment / Roll Number:** 12023052020012
+**Enrollment:** 12023052020012
 
 **Course:** Python Automation
 
