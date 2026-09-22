@@ -1,3 +1,6 @@
+Here is the GitHub Markdown for your **Day 1 Video Demonstration**, structured cleanly for a `README.md`:
+
+```markdown
 # 🚀 Day 1: Environment Setup & Python Installation
 
 ## 📺 Video Demonstration
@@ -27,3 +30,5 @@ The video demonstrates setting up Python on your system and verifying the instal
      python --version
      ```
    * Confirm that the installed Python version is displayed[cite: 1.2].
+
+```
