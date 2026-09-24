@@ -1,4 +1,3 @@
-````markdown
 # Selenium Python Automation Framework
 
 ## Capstone Assignment 2
